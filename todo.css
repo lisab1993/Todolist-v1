@@ -1,0 +1,25 @@
+
+
+.btn-primary {
+    background-color: rgb(31, 127, 253);
+    border: 1px solid black;
+}
+
+.btn-primary:hover {
+    background-color: rgb(0, 194, 253);
+    border: 1px solid black;
+}
+
+.btn-danger {
+    background-color: rgb(255, 0, 55);
+    border: 1px solid black;
+}
+
+.btn-danger:hover {
+    background-color: rgb(255, 0, 128);
+    border: 1px solid black;
+}
+
+.filter-button {
+    max-width: 200px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browserify add-an-item.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisab1993/todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisab1993/todo/issues"
+  },
+  "homepage": "https://github.com/lisab1993/todo#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "watchify": "^4.0.0"
+  }
+}
